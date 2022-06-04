@@ -1,3 +1,6 @@
 hello world
+<<<<<<< Updated upstream
 123494844937294
 1234567890
+=======
+>>>>>>> Stashed changes
